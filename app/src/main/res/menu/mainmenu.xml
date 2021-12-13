@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group android:checkableBehavior="single">
+
+        <item
+            android:id="@+id/modc"
+            android:icon="@drawable/menu"
+            android:title="Modifier compte" />
+        <item
+            android:id="@+id/histo"
+            android:icon="@drawable/menu"
+            android:title="Historique" />
+        <item
+            android:id="@+id/act_des"
+            android:icon="@drawable/menu"
+            android:title="Activer_Desactiver" />
+        <item
+            android:id="@+id/dis_occ"
+            android:icon="@drawable/menu"
+            android:title="disponible_occupee" />
+        <item
+            android:id="@+id/deco"
+            android:icon="@drawable/menu"
+            android:title="Deconnexion" />
+
+    </group>
+
+
+    <group android:checkableBehavior="single">
+        <item android:title="profile">
+
+            <menu>
+                <item
+                    android:id="@+id/mod"
+                    android:icon="@drawable/menu"
+                    android:title="mod" />
+                <item
+                    android:id="@+id/his"
+                    android:icon="@drawable/menu"
+                    android:title="histo" />
+                <item
+                    android:id="@+id/ac_des"
+                    android:icon="@drawable/menu"
+                    android:title="act vs desac" />
+                <item
+                    android:id="@+id/disp_occ"
+                    android:icon="@drawable/menu"
+                    android:title="dispo vs occ" />
+                <item
+                    android:id="@+id/dec"
+                    android:icon="@drawable/menu"
+                    android:title="Deco" />
+
+            </menu>
+
+
+        </item>
+
+
+    </group>
+
+    <item android:title="communicate">
+        <menu>
+            <item
+                android:id="@+id/mo"
+                android:icon="@drawable/menu"
+                android:title="Modifier compte" />
+            <item
+                android:id="@+id/hi"
+                android:icon="@drawable/menu"
+                android:title="Historique" />
+            <item
+                android:id="@+id/acts"
+                android:icon="@drawable/menu"
+                android:title="Activer_Desactiver" />
+            <item
+                android:id="@+id/dis"
+                android:icon="@drawable/menu"
+                android:title="disponible_occupee" />
+            <item
+                android:id="@+id/decn"
+                android:icon="@drawable/menu"
+                android:title="Deconnexion" />
+
+
+
+        </menu>
+    </item>
+</menu>

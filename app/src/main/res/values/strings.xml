@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">Mobile_Project</string>
+    <string name="s_authentifier">S\'authentifier</string>
+    <string name="s_inscrire">S\'inscrire</string>
+
+    <string-array name="ville">
+        <item>Rabat</item>
+        <item>Témara</item>
+        <item>Salé</item>
+        <item>Casablanca</item>
+        <item>Kenitra</item>
+        <item>Tanger</item>
+        <item>Marrakech</item>
+    </string-array>
+
+    <string-array name="specialite">
+        <item>Menuisier</item>
+        <item>Plombier</item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+    </string-array>
+</resources>
